@@ -7,7 +7,7 @@
 
 - 📫 How to reach me 👉 **umerm6921@gmail.com**
 
-- 📄 Know about my experiences 👉 [https://drive.google.com/file/d/1YrBTTMYWA5dXk41geoHN-Qe3ZyShgP7y/view?usp=sharing](https://drive.google.com/file/d/1YrBTTMYWA5dXk41geoHN-Qe3ZyShgP7y/view?usp=sharing)
+- 📄 Know about my experiences 👉 https://drive.google.com/file/d/1rPtJhr5R6wrbxaqJp8w3jAf5RS-aGIZp/view?usp=sharing
 
 - ⚡ Fun fact **I think I'm funny 😂**
 <img src="https://www.darwinrecruitment.no/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif" width="20%" align="right">
