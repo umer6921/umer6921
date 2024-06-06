@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p>Hi 👋, I'm Muhammad Umer. I'm a <b>DevOps Engineer</b> with a passion for optimizing software development and operations, dedicated to driving efficiency and innovation in collaborative environments.</p>
 <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/DEVOPS.gif" width="40%" align="right">
-<ul><li> 🚀 I’m currently learning DevOps and looking for opportunities to upscale my skill</li></ul>
+<ul><li> 🚀 I’m currently working as a DevOps Engineer and looking for opportunities to upscale my skill</li></ul>
 
 - 💬 Ask me about DevOps
 
